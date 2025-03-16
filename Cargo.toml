@@ -1,0 +1,10 @@
+[package]
+name = "rust-arguments"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/linuxfanboy4/rust-arguments"
+repository = "https://github.com/linuxfanboy4/rust-arguments.git"
+authors = ["Calestial Ashley <calestialashley@gmail.com>"]
+
+[dependencies]
